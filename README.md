@@ -1,0 +1,2 @@
+# Degonft
+Satoshiverse
